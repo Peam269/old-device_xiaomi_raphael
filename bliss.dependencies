@@ -1,0 +1,22 @@
+[
+   {
+   "remote"       : "github",
+   "repository"   : "anuragbhaumik/vendor_xiaomi_raphael",
+   "target_path"  : "vendor/xiaomi/raphael",
+   "branch"       : "11"
+   },
+   {
+   "remote"       : "github",
+   "repository"   : "wadiehabib/kernel_xiaomi_raphael",
+   "target_path"  : "kernel/xiaomi/raphael",
+   "branch"       : "snaplight",
+   "clone-depth"  : "1"
+   },
+   {
+   "remote"       : "gitlab",
+   "repository"   : "varunhardgamer/trb_clang",
+   "target_path"  : "prebuilts/clang/host/linux-x86/trb_clang",
+   "branch"       : "15"
+   "clone-depth"  : "1"
+   }
+]
