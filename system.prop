@@ -115,3 +115,6 @@ ro.vendor.qti.va_aosp.support=1
 
 # WiFi
 config.disable_rtt=true
+
+# Spark
+ro.spark.maintainer=Emil Wagenplast
